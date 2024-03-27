@@ -1,1 +1,1 @@
-# ml_algorithms
+# Empirischer Vergleich von Support Vector Machines und Convolutional Neural Networks an einer Problemstellung zur Mustererkennung auf den Datensätzen MNIST und Fashion-MNIST
